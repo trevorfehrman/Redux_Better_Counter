@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: 700px;
+  align-items: center;
+  font-size: 50px;
+}
+
+.adjective {
+  margin-right: 15px;
+}
